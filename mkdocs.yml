@@ -1,5 +1,9 @@
 site_name: Velly Docs
 nav:
   - Home: index.md
-  - About: about.md
-theme: readthedocs
+  - User Guide: user-guide.md
+  - About:
+    - Who we are?: about/who-we-are.md 
+    - Privacy Policy: about/privacy-policy.md 
+  - Donate: donate.md
+# theme: readthedocs

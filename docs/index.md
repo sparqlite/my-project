@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to Velly Docs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## What’s Velly?
 
-## Commands
+### Background
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+We are huge fans of raspberry pi and have been using it for a variety of local network servers and even as a desktop pc.  There was a need to be able to provide customized images that had software pre-installed to easily share software to friends and family, and so this system was created.
 
-## Project layout
+### Overview
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+The Velly system stores and organizes raspberry pi image links in order to easily download and install system software.  Once a [download] is complete, [installing] it to a usb or sd card is very easy.
