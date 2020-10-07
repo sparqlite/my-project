@@ -1,7 +1,7 @@
 site_name: Velly Docs
 nav:
   - Home: index.md
-  - User Guide: user-guide.md
+  # - User Guide: user-guide.md
   - About:
     - Who we are?: about/who-we-are.md 
     - Privacy Policy: about/privacy-policy.md 

@@ -9,3 +9,13 @@ We are huge fans of raspberry pi and have been using it for a variety of local n
 ### Overview
 
 The Velly system stores and organizes raspberry pi image links in order to easily download and install system software.  Once a [download] is complete, [installing] it to a usb or sd card is very easy.
+
+# Image Download
+
+Easily download any image by clicking on the “download” link.
+
+# Image Install
+
+Raspberry Pi Imager
+
+# Image boot
