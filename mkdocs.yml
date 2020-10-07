@@ -1,6 +1,4 @@
 site_name: Velly Docs
-extra_javascript:
-  - https://sparqlite.gitlab.io/donate-comp/entry.bundled.js
 nav:
   - Home: index.md
   # - User Guide: user-guide.md
