@@ -7,3 +7,5 @@ nav:
     - Privacy Policy: about/privacy-policy.md 
   - Donate: donate.md
 # theme: readthedocs
+extra_javascript:
+  - https://sparqlite.gitlab.io/donate-comp/entry.bundled.js
