@@ -1,4 +1,4 @@
-# Who are we?
+# Who we are?
 
 SparqLite LLC is the company that is funding the support and maintenance of the Velly system.
 
